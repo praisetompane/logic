@@ -1,0 +1,83 @@
+def: a method for ascertaining truth (Leighton, 2010).
+example proofs (Leighton, 2010): 
+# in science
+    experimentation and observation
+
+# in statistics
+    sampling := repeat process n times and produces same result.
+                ∴ result := truth
+
+#in society
+    jury and judges
+    religion
+    employer(boss)
+
+# inner conviction
+    There are no bugs in my program!
+    I do not see why it is not true.
+
+# establish falsehood
+    define what is NOT true
+    counter examples
+
+# in mathematics
+    a verificatin of a proposition
+        by a chain of logical deductions
+            from a set of axioms.
+
+    a sequence of logical deductions to ascertain truth.
+
+types (Leighton, 2010): 
+    1. direct 
+    2. indirect
+
+    1.
+        To prove a proposition(p) is True:
+            choose axioms and use theorem
+            follow logical deductions
+            reach conclusion that p is True
+
+
+    2.
+        proof by contradiction:
+            To prove a proposition(P) is True(T):
+                assume P is False(F)(i.e ̸P is T  = not P is T)
+                then use that hypothesis(i.e P is F), to derive a falsehood or a contradiction
+            Works because:
+                if /P => F is True
+                    for /P => F to be True
+                    {/P must be F}
+                        ∴ P is T
+            examples:
+                p = √2 is irrational
+                    pf (by contradiction)
+                        assume P is False => therefore assume for purpose contradiction that √2 is rational
+                            ∴ √2 can be expressed as a/b, where a/b is a fraction of lowest terms(i.e. a and b have no common divisor).
+
+                                                            √2 = a/b
+                            square both sides            => 2 = a²/b²
+                            multiply both sides by b²    => 2 * b² = a²/b² * b²/1
+                                                            2b² = a²b²/b²
+                                                            2b² = a² * 1
+                                                            2b² = a²
+
+                                                - 2b² is even (because any number multiplied by 2 is even)
+                                                    - ∴ a² is even (because 2b² = a² )
+                                                        - ∴ a is even
+                                                            (even number squared produces an even number and odd number sqaured produces odd number)
+                                                            ∴ (2 | a): 2 divides a : [| = divides symbol]
+                                                        - ∴ (4 | a²), because even numbers start at 2, a² >= 4
+                                                            NB: a² is a muliple of of 4
+                                                            ∴ (4 | 2b²), because 2b² = a²
+                                                                - divide both sides by 2: (4\2 | 2b²\2) = (2 | b²)
+                                                                    ∴ b is even, because its b² is divisible by 2, and even number squared produces an even number.
+
+                                                                    ∴ a\b is NOT in lowest terms, contradictory to √2 = a/b, where a\ is a fraction in lowest terms.
+
+in computing we desire to prove:
+    - program and system correctness
+        i.e. does the system/program do what it is supposed to do.
+    Q: This is an active research area. Can we add value here?
+
+    examples:
+        chip correctness.
