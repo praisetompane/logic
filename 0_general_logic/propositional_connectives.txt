@@ -1,0 +1,28 @@
+propositional connectives or 
+logical connectives or 
+connectives(Kunen, 2007:4) (Weisstein):
+    ∧       := and
+    ∨       := or
+    ¬       : not | negation
+    ⟹       : implies
+    ⟺       : if and only if
+
+    truth table(Kunen, 2007:4): 
+        def T: True
+        def F: False
+        
+        φ   ψ   φ ∨ ψ    φ ∧ ψ      φ ⟹ ψ   φ ⟺ ψ
+        T   T   T        T          T        T
+        T   F   T        F          F        F
+        F   T   T        F          T        F     
+        F   F   F        F          T        T
+
+        φ   ¬φ
+        T   F
+        F   T
+
+        NB: φ ⟹ ψ is always equivalent to ¬φ ∨ ψ
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Weisstein, Eric W. "Connective." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Connective.html 
