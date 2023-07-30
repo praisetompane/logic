@@ -40,13 +40,8 @@ def: the formal mathematical study of the
                 methods, structure and validity of 
                     mathematical deduction and proof (Weisstein).
 
-investigates and classifies the structure of sentences
-    using:
-        - formal systems of inference
-        - analysis/study of arguments in natural language (Wikipedia)
-# Logic Branches:
-* https://en.wikipedia.org/wiki/Outline_of_logic#Branches_of_logic       
-
+# a semi-formal classification scheme is maintained here: 
+    https://en.wikipedia.org/wiki/Outline_of_logic#Branches_of_logic       
 # References: 
 * Weisstein, Eric W. "Logic." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Logic.html 
 * Kunen, K. 2007. The Foundations of Mathematics.
