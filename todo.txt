@@ -1,0 +1,15 @@
+priority:
+    study
+study:
+    add layman definitions
+    Susana Epp Discrete Mathematics Logic sections
+   
+    see program.txt
+    
+    https://m.youtube.com/watch?v=IWzU82swez0
+
+    https://m.youtube.com/watch?v=IWzU82swez0
+
+legend:
+    * : visited today/last session
+        NB: All subjects must be visited before a repeat visit.
