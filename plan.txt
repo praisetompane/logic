@@ -1,5 +1,5 @@
-Logic for CE - propositional logic + first order logic: https://m.youtube.com/playlist?list=PLzVTusWerVcKx3crsij5wrRfIqWp3UXc7
 
+Logic for CE - propositional logic + first order logic: https://m.youtube.com/playlist?list=PLzVTusWerVcKx3crsij5wrRfIqWp3UXc7
 
 Introduction to the Foundation for Critical Thinking: 
     https://www.youtube.com/watch?v=xs1-mL2ty8A
