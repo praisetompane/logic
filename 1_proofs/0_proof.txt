@@ -1,31 +1,31 @@
 def: a method for ascertaining truth (Leighton, 2010).
-example proofs (Leighton, 2010): 
-# in science
-    experimentation and observation
+    example proofs (Leighton, 2010): 
+    # in science
+        experimentation and observation
 
-# in statistics
-    sampling := repeat process n times and produces same result.
-                ∴ result := truth
+    # in statistics
+        sampling := repeat process n times and produces same result.
+                    ∴ result := truth
 
-#in society
-    jury and judges
-    religion
-    employer(boss)
+    #in society
+        jury and judges
+        religion
+        employer(boss)
 
-# inner conviction
-    There are no bugs in my program!
-    I do not see why it is not true.
+    # inner conviction
+        There are no bugs in my program!
+        I do not see why it is not true.
 
-# establish falsehood
-    define what is NOT true
-    counter examples
+    # establish falsehood
+        define what is NOT true
+        counter examples
 
-# in mathematics
-    a verificatin of a proposition
-        by a chain of logical deductions
-            from a set of axioms.
+    # in mathematics
+        a verificatin of a proposition
+            by a chain of logical deductions
+                from a set of axioms.
 
-    a sequence of logical deductions to ascertain truth.
+        a sequence of logical deductions to ascertain truth.
 
 types (Leighton, 2010): 
     1. direct 
