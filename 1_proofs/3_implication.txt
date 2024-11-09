@@ -1,21 +1,26 @@
-# def: implication := an implication p ⟹ q, is true if p is False OR q is True (Leighton, 2010)
+def implication: an implication p ⟹ q is true, 
+                    when p is False OR q is True (Leighton, 2010).
+
     Q: Why is this the definition of an implication?
        Where does it come from?
 
     Truth Table visualisation
-    |   p   |   q  |    p ⟹q    |
+        p       q       p⟹q    
+        ---------------------
         T       T       T
         T       F       F
         F       T       T           # false imples anything = True
         F       F       T           # false imples anything = True
     NB: False implies anything is True
 
-    # examples
+    examples:
         ∀ₙ ∈ Z, n >= 2 ⟹ n² >= 4
                   p           q
         Truth Table visualisation
-                    p             q
-        |   n   |   n => 2   |     n² >= 4                  | T/F |
+
+                      p               q
+            n       n => 2         n² >= 4                   T/F 
+            ------------------------------------------------------------
             0         F            0² >= 4                    T     **??
             1         F            1² >= 4                    T     **??
             2         T            2² >= 4 := T               T

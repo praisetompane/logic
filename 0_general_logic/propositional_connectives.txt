@@ -1,6 +1,4 @@
-propositional connectives or 
-logical connectives or 
-connectives(Kunen, 2007:4) (Weisstein):
+propositional connectives or logical connectives or connectives(Kunen, 2007:4) (Weisstein):
     ∧       := and
     ∨       := or
     ¬       : not | negation

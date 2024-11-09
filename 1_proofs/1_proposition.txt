@@ -1,4 +1,4 @@
-def: a statement that is either TRUE or FALSE (Leighton, 2010).
+def proposition: a statement that is either TRUE or FALSE (Leighton, 2010).
     examples:
         2 + 3 = 5
             # Test proposition
