@@ -1,5 +1,5 @@
-def: a proposition that is assumed to be True (Leighton, 2010).
-    NB: There is no proof it is True
+def axiom: a proposition that is assumed to be True (Leighton, 2010).
+    NB: There is no proof it is True.
         Greek etymology := to think worth
         ∴ Something we deem worthy to be True
 

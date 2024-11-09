@@ -1,4 +1,4 @@
-def: a method for ascertaining truth (Leighton, 2010).
+def proof: a method for ascertaining truth (Leighton, 2010).
     example proofs (Leighton, 2010): 
     # in science
         experimentation and observation
