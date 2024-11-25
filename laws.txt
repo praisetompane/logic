@@ -1,0 +1,4 @@
+laws(Aristotle):
+    law of identity
+    law of non-contradiction
+    law of the excluded middle.

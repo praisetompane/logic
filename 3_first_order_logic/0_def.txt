@@ -1,0 +1,9 @@
+def predicate logic or 
+    first-order logic or
+    first-order predicate logic: 
+        a formal language
+            with precise rules of formation. 
+            just like computer programming languages(C, Java, etx) (Kunen, 2007:6) (Sakharov).     
+
+References: 
+    Sakharov, A. "First-Order Logic." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. https://mathworld.wolfram.com/First-OrderLogic.html.
