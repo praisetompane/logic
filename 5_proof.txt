@@ -27,6 +27,18 @@ def proof: a method for ascertaining truth (Leighton, 2010).
 
         a sequence of logical deductions to ascertain truth.
 
+def proof¹ (Kunen, 2007:6): a finite sequence of sentences
+                                written in this language
+                                that obey 
+                                    a precisely defined rule of inference.
+                                    rules of inference = {modus ponens, ...}
+    
+def proof² (Montalban, 2020): an argument
+                            that uses
+                                logical steps
+                            to show
+                                that a mathematical statement
+                                follows from certain axioms.
 types (Leighton, 2010): 
     1. direct 
     2. indirect
@@ -81,3 +93,7 @@ in computing we desire to prove:
 
     examples:
         chip correctness.
+
+References: 
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory. https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf
