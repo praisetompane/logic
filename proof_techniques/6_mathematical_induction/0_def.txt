@@ -1,0 +1,19 @@
+def x:
+    - formal:
+
+            - it is an axiom.
+            
+        - in words:
+
+    - plain english:
+
+    - intuition:
+
+    - properties:
+
+    - examples:
+
+    - use cases:
+        - computer science
+
+References:
