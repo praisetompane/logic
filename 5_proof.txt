@@ -79,7 +79,7 @@ types (Leighton, 2010):
                                                             (even number squared produces an even number and odd number sqaured produces odd number)
                                                             ∴ (2 | a): 2 divides a : [| = divides symbol]
                                                         - ∴ (4 | a²), because even numbers start at 2, a² >= 4
-                                                            NB: a² is a muliple of of 4
+                                                            NB: a² is a muliple of 4
                                                             ∴ (4 | 2b²), because 2b² = a²
                                                                 - divide both sides by 2: (4\2 | 2b²\2) = (2 | b²)
                                                                     ∴ b is even, because its b² is divisible by 2, and even number squared produces an even number.
