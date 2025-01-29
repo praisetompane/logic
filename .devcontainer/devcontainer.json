@@ -1,0 +1,21 @@
+{
+	"name": "logic",
+	"build": {
+		"dockerfile": "../Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"ms-python.black-formatter",
+				"ms-python.debugpy",
+				"ms-python.mypy-type-checker",
+				"ms-toolsai.jupyter"
+			],
+			"settings": {}
+		}
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/logic,type=bind,consistency=delegated",
+	"workspaceFolder": "/logic"
+}
