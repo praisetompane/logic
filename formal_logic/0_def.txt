@@ -1,0 +1,4 @@
+def formal logic:
+    see: https://github.com/praisetompane/mathematics/tree/main/03_mathematical_logic_and_foundations
+
+References: ???

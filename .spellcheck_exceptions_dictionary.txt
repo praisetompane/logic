@@ -1,0 +1,23 @@
+# authors
+praisetompane
+
+# concepts
+https
+
+
+# technology
+pipenv
+pyspelling
+svg
+yaml
+
+# institutions
+ocw
+
+# acronyms
+MYINC
+
+# places
+
+
+# urls
