@@ -1,28 +1,41 @@
 # What is Logic?
-
 ![build status](https://github.com/praisetompane/logic/actions/workflows/logic.yaml/badge.svg) <br>
 
-**def logic:???** 
+## Definitions
+- def logic: ??? 
 
-**[semi-formal classification scheme]**
-- [Branches of Logic](https://en.wikipedia.org/wiki/Outline_of_logic#Branches_of_logic)
+- Semi-formal Classification scheme
+  - [Branches of Logic](https://en.wikipedia.org/wiki/Outline_of_logic#Branches_of_logic)
       
-## History:
+## Dependencies
+- [Docker](https://docs.docker.com/get-started/)
 
-## State of the art:
+## Setup Instructions
+- The repository is configured to use [devcontainers](https://containers.dev) for development.
+    - [Developing inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 
-## Community:
+## History
 
-## Logicians:
+## Notation
 
-## Spellcheck:
+## Tools
+
+## State of the art
+
+## Community
+
+## Logicians
+
+## Spellcheck
 ```shell
 pipenv shell
+```
+
+```shell
 pyspelling -c spellcheck.yaml
 ```
 
 # References: 
-
 
 # Legend:
 **Q**: Question for later research
