@@ -1,8 +1,30 @@
+# acronyms/abbreviations
+MYINC
+
+
 # authors
 praisetompane
+Frege
+Gottlob
+Gödel
+Magnus
+Trueman
+Zach
 
-# concepts
+
+# domain specific
 https
+forallx
+
+
+# institutions
+ocw
+coursera
+edu
+quantamagazine
+
+
+# places
 
 
 # technology
@@ -12,15 +34,11 @@ svg
 yaml
 devcontainers
 visualstudio
-
-# institutions
-ocw
-
-# acronyms
-MYINC
-
-# places
+pytest
 
 
 # urls
 dev
+intrologic
+txt
+forallx

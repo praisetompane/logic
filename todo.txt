@@ -1,5 +1,20 @@
-foundations of logic
+0_formal_logic
     - lectures:
+        - Ben-David, S. 2015. CS 245 - Logic and Computation. University of Waterloo
+        - https://www.coursera.org/learn/logic-introduction/
+        - http://intrologic.stanford.edu/homepage/index.html
     - readings:
+        - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic
     - assignments:
     - exams:
+
+0_logic
+    - lectures:
+        -
+    - readings:
+        - The Open Logic Project. 2016. Sets, Logic, Computation
+        - Open Logic Project. 2024. The Open Logic Project
+    - assignments:
+        -
+    - exams:
+        -

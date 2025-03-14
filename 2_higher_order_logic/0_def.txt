@@ -1,2 +1,0 @@
-def higher-order logic:
-    TBD
