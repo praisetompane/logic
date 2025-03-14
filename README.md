@@ -1,6 +1,9 @@
 # What is Logic?
 ![build status](https://github.com/praisetompane/logic/actions/workflows/logic.yaml/badge.svg) <br>
 
+## Objectives
+- An attempt at unpacking Logic and its relationship with Mathematics.
+
 ## Definitions
 - def logic: ??? 
 
@@ -16,8 +19,6 @@
 
 ## History
 
-## Notation
-
 ## Tools
 
 ## State of the art
@@ -26,16 +27,13 @@
 
 ## Logicians
 
-## Spellcheck
-```shell
-pipenv shell
-```
-
+## Testing
+- ## Spellcheck
 ```shell
 pyspelling -c spellcheck.yaml
 ```
 
-# References: 
+# References
 
 # Legend:
 **Q**: Question for later research

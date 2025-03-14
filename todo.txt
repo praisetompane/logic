@@ -1,5 +1,7 @@
 foundations of logic
     - lectures:
+        - https://www.coursera.org/learn/logic-introduction/
+        - http://intrologic.stanford.edu/homepage/index.html
     - readings:
     - assignments:
     - exams:
