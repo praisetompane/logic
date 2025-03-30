@@ -1,5 +1,17 @@
-foundations of logic
+introduction of logic:
     - lectures:
+        - Genesereth, M. Introduction to Logic. Stanford University
+            - https://www.coursera.org/learn/logic-introduction/
+            - http://intrologic.stanford.edu/homepage/index.html
+    - readings:
+        - The Open Logic Project. 2016. Sets, Logic, Computation
+    - assignments:
+    - exams:
+
+logic and computation:
+    - lectures:
+        - Ben-David, S. 2015. CS 245 - Logic and Computation. University of Waterloo
     - readings:
     - assignments:
     - exams:
+
