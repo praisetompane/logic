@@ -3,9 +3,13 @@ Bonnay
 Uckelman
 praisetompane
 Genesereth
+Frege
+Gottlob
+Gödel
+Skolem
+Zach
 
 # concepts
-https
 
 
 # technology
@@ -27,6 +31,7 @@ MYINC
 
 
 # urls
+https
 dev
 edu
 intrologic
