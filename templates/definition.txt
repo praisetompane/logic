@@ -1,11 +1,18 @@
 def x:
-    formal:
+    - formal: ???
 
-        in words:
+        - in words: ???
 
-    plain english:
+    - plain english: ???
 
-    intuition:
+    - intuition: ???
 
-    examples:
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
         
+    - proof: ???
+    
+References: ???

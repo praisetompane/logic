@@ -4,7 +4,8 @@ introduction of logic:
             - https://www.coursera.org/learn/logic-introduction/
             - http://intrologic.stanford.edu/homepage/index.html
     - readings:
-        - The Open Logic Project. 2016. Sets, Logic, Computation
+        - Zach, R. 2016. Sets, Logic, Computation. The Open Logic Project.
+            - current: xiii: *
     - assignments:
     - exams:
 
