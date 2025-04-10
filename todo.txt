@@ -12,6 +12,8 @@ introduction of logic:
 logic and computation:
     - lectures:
         - Ben-David, S. 2015. CS 245 - Logic and Computation. University of Waterloo
+        - https://www.coursera.org/learn/logic-introduction/
+        - http://intrologic.stanford.edu/homepage/index.html
     - readings:
     - assignments:
     - exams:

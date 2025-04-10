@@ -46,6 +46,12 @@
 - Sara L. Uckelman
 - Skolem Logician
 
+## Testing
+- ### Execute Tests
+  ```shell
+  pytest
+  ```
+  
 ## Spellcheck
 ```shell
 pipenv shell
@@ -59,8 +65,7 @@ pyspelling -c spellcheck.yaml
 - Bonnay, D. 2016. Philosophy of Logic. Serious Science. https://serious-science.org/philosophy-of-logic-7820
 
 # Legend:
-**Q**: Question for later research
-
+**Q**: Question for later research<br>
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my distributed memory.
