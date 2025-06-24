@@ -5,6 +5,7 @@
         - http://intrologic.stanford.edu/homepage/index.html
     - readings:
         - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic
+        - Boole, G. 1854. An Investigation of the Laws of Thought
     - assignments:
     - exams:
 
