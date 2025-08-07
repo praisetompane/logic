@@ -1,5 +1,6 @@
 # acronyms/abbreviations
 MYINC
+SQR
 
 
 # authors
@@ -15,9 +16,11 @@ Zach
 # domain specific
 https
 forallx
+exosomatic
 
 
 # institutions
+zbmath
 ocw
 coursera
 edu

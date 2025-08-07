@@ -17,25 +17,27 @@
   - [Legend](#legend)
 
 ## Objectives
-- An attempt at unpacking Logic and its relationship with Mathematics.
+- An attempt at unpacking Logic and its relationship with Computation and Mathematics.
 
 ## Definitions
 - def logic(Ben-David, 2015):
-      - formal: ???
-        - in words: ???
+  - formal: ???
+    - in words: ???
 
-      - plain english: the study of correct reasoning.
-      - intuition: how to reliably get from assumotioins to conclusions.
+  - plain english: the study of correct reasoning.
+  - intuition: the study of how to reliably get from assumptions to conclusions.
 
-- Formal Classification Scheme: ???
+- Formal Classification Scheme:
   - Semi-formal Classification scheme
     - [Branches of Logic](https://en.wikipedia.org/wiki/Outline_of_logic#Branches_of_logic)
 
-- Theory
-  - Theoretical Basis: Philosophy???
+- Theory:
+  - Theoretical Basis: ???
+  - Formal Science: [03_mathematical_logic_and_foundations](https://zbmath.org/classification/?q=cc%3A03)
+  - Philosophy: ???
 
 ## Learning Order
-- [0_formal_logic](formal_logic/0_formal_logic.txt)
+- [0_formal_logic](0_formal_logic/0_formal_logic.txt)
 
 ## Dependencies
 - [Docker](https://docs.docker.com/get-started/)
