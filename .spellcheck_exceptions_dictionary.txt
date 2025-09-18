@@ -4,6 +4,9 @@ SQR
 
 
 # authors
+Barcan
+Ladd
+Rozalia
 praisetompane
 Frege
 Gottlob

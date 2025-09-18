@@ -1,9 +1,14 @@
 # What is Logic?
 ![build status](https://github.com/praisetompane/logic/actions/workflows/logic.yaml/badge.svg) <br>
 
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my exosomatic memory.
+
 - [What is Logic?](#what-is-logic)
   - [Objectives](#objectives)
   - [Definitions](#definitions)
+      - [Formal Classification Scheme](#formal-classification-scheme)
+      - [Foundations](#foundations)
+      - [Invention | Discovery](#invention--discovery)
   - [Learning Order](#learning-order)
   - [Dependencies](#dependencies)
   - [Setup Instructions](#setup-instructions)
@@ -17,24 +22,24 @@
   - [Legend](#legend)
 
 ## Objectives
-- An attempt at unpacking Logic and its relationship with Computation and Mathematics.
+- An attempt at distilling to layman's terms:
+  - Logic.
+  - Logic's Foundations and Invention | Discovery.
+  - Logic's Relationship with [Computation](https://github.com/praisetompane/computation) and [Mathematics](https://github.com/praisetompane/mathematics).
 
 ## Definitions
-- def logic(Ben-David, 2015):
-  - formal: ???
-    - in words: ???
+- def logic(Ben-David, 2015): the study of how to reliably get from assumptions to conclusions.
 
-  - plain english: the study of correct reasoning.
-  - intuition: the study of how to reliably get from assumptions to conclusions.
+#### Formal Classification Scheme
+  - [Semi-formal Classification scheme](https://en.wikipedia.org/wiki/Outline_of_logic#Branches_of_logic)
 
-- Formal Classification Scheme:
-  - Semi-formal Classification scheme
-    - [Branches of Logic](https://en.wikipedia.org/wiki/Outline_of_logic#Branches_of_logic)
-
-- Theory:
+#### Foundations
   - Theoretical Basis: ???
-  - Formal Science: [03_mathematical_logic_and_foundations](https://zbmath.org/classification/?q=cc%3A03)
-  - Philosophy: ???
+  - [Formal Science](https://zbmath.org/classification/?q=cc%3A03B)
+  - [Philosophy](https://plato.stanford.edu/entries/logic-classical/)
+
+#### Invention | Discovery
+  - ???
 
 ## Learning Order
 - [0_formal_logic](0_formal_logic/0_formal_logic.txt)
@@ -57,10 +62,15 @@
 ## Community
 
 ## Logicians
+- Alan Turing
+- Alonzo Church
+- Christine Ladd-Franklin
+- Ruth Barcan Marcus
 - Kurt Gödel
 - Gottlob Frege
 - Bertrand Russell
 - Alfred North Whitehead
+- Rose (Rozalia) Rand
 
 ## Testing
 - ### Execute Tests
@@ -83,5 +93,3 @@ pyspelling -c spellcheck.yaml
 **Q**: Question for later research
 
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
-
-**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my exosomatic memory.
